@@ -1,0 +1,112 @@
+[
+  {
+    "order_id": 1001,
+    "date": "2024-01-05",
+    "region": "Sudeste",
+    "product": "Notebook",
+    "category": "Eletrônicos",
+    "sales": 4500,
+    "cost": 3200,
+    "quantity": 1,
+    "customer_type": "Novo"
+  },
+  {
+    "order_id": 1002,
+    "date": "2024/01/07",
+    "region": "Sul",
+    "product": "Mouse",
+    "category": "Acessórios",
+    "sales": 150,
+    "cost": 40,
+    "quantity": 2,
+    "customer_type": "Recorrente"
+  },
+  {
+    "order_id": 1003,
+    "date": "07-01-2024",
+    "region": "Nordeste",
+    "product": "Teclado",
+    "category": "Acessórios",
+    "sales": "300",
+    "cost": 120,
+    "quantity": 1,
+    "customer_type": "Novo"
+  },
+  {
+    "order_id": 1004,
+    "date": "2024-01-10",
+    "region": "Sudeste",
+    "product": "Monitor",
+    "category": "Eletrônicos",
+    "sales": 1200,
+    "cost": 900,
+    "quantity": 1,
+    "customer_type": ""
+  },
+  {
+    "order_id": 1005,
+    "date": "2024-01-12",
+    "region": null,
+    "product": "Notebook",
+    "category": "Eletrônicos",
+    "sales": 4800,
+    "cost": 3500,
+    "quantity": 1,
+    "customer_type": "Recorrente"
+  },
+  {
+    "order_id": 1006,
+    "date": "2024-01-15",
+    "region": "Norte",
+    "product": "Impressora",
+    "category": "Eletrônicos",
+    "sales": 0,
+    "cost": 700,
+    "quantity": 1,
+    "customer_type": "Novo"
+  },
+  {
+    "order_id": 1007,
+    "date": "invalid_date",
+    "region": "Sudeste",
+    "product": "Cadeira Gamer",
+    "category": "Móveis",
+    "sales": 2500,
+    "cost": 1100,
+    "quantity": 1,
+    "customer_type": "Recorrente"
+  },
+  {
+    "order_id": 1008,
+    "date": "2024-01-18",
+    "region": "Sul",
+    "product": "Mesa Escritório",
+    "category": "Móveis",
+    "sales": 1800,
+    "cost": 950,
+    "quantity": 1,
+    "customer_type": "Novo"
+  },
+  {
+    "order_id": 1009,
+    "date": "2024-01-20",
+    "region": "Sudeste",
+    "product": "Notebook",
+    "category": "Eletrônicos",
+    "sales": 15000,
+    "cost": 4000,
+    "quantity": 3,
+    "customer_type": "Corporativo"
+  },
+  {
+    "order_id": 1010,
+    "date": "2024-01-22",
+    "region": "Centro-Oeste",
+    "product": "Mouse",
+    "category": "Acessórios",
+    "sales": -50,
+    "cost": 30,
+    "quantity": 1,
+    "customer_type": "Novo"
+  }
+]

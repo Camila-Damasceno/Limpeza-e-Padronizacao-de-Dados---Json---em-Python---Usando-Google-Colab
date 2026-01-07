@@ -1,0 +1,47 @@
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "Ana Silva",
+    "age": 29,
+    "gender": "F",
+    "region": "Sudeste",
+    "signup_date": "2022-05-10",
+    "loyalty_score": 85
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "Bruno Costa",
+    "age": 42,
+    "gender": "M",
+    "region": "Sul",
+    "signup_date": "2021-11-03",
+    "loyalty_score": 60
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "Carla Mendes",
+    "age": null,
+    "gender": "F",
+    "region": "Nordeste",
+    "signup_date": "2023-02-15",
+    "loyalty_score": 90
+  },
+  {
+    "customer_id": "C004",
+    "customer_name": "Diego Ramos",
+    "age": 35,
+    "gender": "",
+    "region": "Sudeste",
+    "signup_date": "invalid_date",
+    "loyalty_score": 70
+  },
+  {
+    "customer_id": "C005",
+    "customer_name": "Empresa XPTO Ltda",
+    "age": null,
+    "gender": "PJ",
+    "region": "Centro-Oeste",
+    "signup_date": "2020-08-20",
+    "loyalty_score": 95
+  }
+]
